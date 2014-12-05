@@ -7,7 +7,7 @@
     <key>Input</key>
     <dict>
         <key>IDENTIFIER</key>
-        <string>com.github.dmmueller.autopkg.download.iTerm_2</string>
+        <string>com.github.dmmueller.autopkg-recipes.download.iTerm_2</string>
         <key>NAME</key>
         <string>iTerm</string>
         <key>SPARKLE_FEED_URL</key>

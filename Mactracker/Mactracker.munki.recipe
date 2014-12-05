@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Mactracker and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.dmmueller.autopkg.munki.Mactracker</string>
+	<string>com.github.dmmueller.autopkg-recipes.munki.Mactracker</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -39,7 +39,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.dmmueller.autopkg.download.Mactracker</string>
+	<string>com.github.dmmueller.autopkg-recipes.download.Mactracker</string>
 	<key>Process</key>
 	<array>
 		<dict>

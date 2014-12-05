@@ -5,7 +5,7 @@ s<?xml version="1.0" encoding="UTF-8"?>
 	<key>Description</key>
 	<string>Downloads the current release version of coconutBattery and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.dmmueller.autopkg.munki.coconutBattery</string>
+	<string>com.github.dmmueller.autopkg-recipes.munki.coconutBattery</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

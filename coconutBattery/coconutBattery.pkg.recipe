@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads the current release version of coconutBattery and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.dmmueller.autopkg.pkg.coconutBattery</string>
+    <string>com.github.dmmueller.autopkg-recipes.pkg.coconutBattery</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>coconutBattery</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.dmmueller.autopkg.download.coconutBattery</string>
+    <string>com.github.dmmueller.autopkg-recipes.download.coconutBattery</string>
     <key>MinimumVersion</key>
     <string>0.2.8</string>
     <key>Process</key>

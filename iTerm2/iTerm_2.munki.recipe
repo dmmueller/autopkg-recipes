@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of iTerm 2 and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.dmmueller.autopkg.munki.iTerm_2</string>
+	<string>com.github.dmmueller.autopkg-recipes.munki.iTerm_2</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -39,7 +39,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.dmmueller.autopkg.download.iTerm_2</string>
+	<string>com.github.dmmueller.autopkg-recipes.download.iTerm_2</string>
 	<key>Process</key>
 	<array>
 		<dict>
