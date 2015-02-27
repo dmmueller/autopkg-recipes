@@ -25,7 +25,7 @@
 			<key>category</key>
 	        <string>Utility</string>
 			<key>description</key>
-			<string>Powerful alternative to Terminal.app.</string>
+			<string>View your battery health at a glance. Check charge cycles and overall battery stats.</string>
 			<key>display_name</key>
 			<string>coconutBattery</string>
 			<key>name</key>
