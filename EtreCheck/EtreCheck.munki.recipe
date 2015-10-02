@@ -34,10 +34,12 @@
 			<true/>
 			<key>unattended_uninstall</key>
 			<true/>
+			<key>developer</key>
+			<string>Etresoft</string>
 		</dict>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.2.0</string>
+	<string>0.4.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.dmmueller.autopkg-recipes.download.EtreCheck</string>
 	<key>Process</key>
@@ -60,17 +62,11 @@
 			<string>DmgCreator</string>
 			<key>Arguments</key>
 			<dict>
-                <key>dmg_megabytes</key>
-                <string>300</string>
-                <key>dmg_root</key>
-                <string>%RECIPE_CACHE_DIR%/%NAME%</string>
-                <key>dmg_path</key>
-                <string>%RECIPE_CACHE_DIR%/%NAME%.dmg</string>
+				<key>dmg_root</key>
+				<string>%RECIPE_CACHE_DIR%/%NAME%</string>
+				<key>dmg_path</key>
+				<string>%RECIPE_CACHE_DIR%/%NAME%.dmg</string>
 			</dict>
-		</dict>
-		<dict>
-			<key>Processor</key>
-			<string>MunkiPkginfoMerger</string>
 		</dict>
 		<dict>
 			<key>Arguments</key>
