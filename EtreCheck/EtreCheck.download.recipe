@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>EtreCheck</string>
         <key>DOWNLOAD_URL</key>
-        <string>http://www.etresoft.com/download/EtreCheck.zip</string>
+        <string>https://www.etresoft.com/download/EtreCheck.zip</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.4.0</string>
