@@ -69,7 +69,7 @@
                     <key>version</key>
                     <string>%version%</string>
                     <key>id</key>
-                    <string>com.hipchat.pkg</string>
+                    <string>com.HipChat.pkg</string>
                     <key>options</key>
                     <string>purge_ds_store</string>
                     <key>chown</key>
