@@ -11,8 +11,8 @@
 		<key>NAME</key>
 		<string>HipChat</string>
 		<key>DOWNLOAD_URL</key>
-		<!--<string>https://www.hipchat.com/downloads/latest/mac</string>-->
-		<string>https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.0.8-626.zip</string>-->
+		<string>https://www.hipchat.com/downloads/latest/mac</string>
+		<!--<string>https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.0.8-626.zip</string>-->
 		<!--string>https://s3.amazonaws.com/downloads.hipchat.com/osx/HipChat-4.0.10-643.zip</string>-->
 	</dict>
 	<key>MinimumVersion</key>
